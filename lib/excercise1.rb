@@ -1,3 +1,5 @@
+# practicals/object_oriented_design/dependency_injection.md
+
 class Note
   def initialize(title, body, formatter = NoteFormatter.new)
     @title = title
