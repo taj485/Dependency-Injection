@@ -28,4 +28,4 @@ end
 
 diary = Diary.new
 diary.add("james","tom")
-puts diary.entries
+puts diary.index
